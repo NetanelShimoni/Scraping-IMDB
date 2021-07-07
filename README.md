@@ -1,7 +1,7 @@
 # Scraping:
 The purpose of the code is to get the name of a movie and with the help of libraries in Python to extract the following data to the file: </br>
-Movie title | Genre | MPAA ration | Movie duration | Directors |Stars
-
+**Movie title | Genre | MPAA ration | Movie duration | Directors |Stars
+**
 With the help of libraries such as:
 1) imdb (library installation: pip install imdbpy)
 2) requests
