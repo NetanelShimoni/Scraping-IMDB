@@ -29,8 +29,10 @@ Code explanation:
 * The results can be seen in the movies.txt file
 
 </br>
-**example:** 
+example:
 </br>
-![תמונה](https://user-images.githubusercontent.com/57719538/124833571-10c72e00-df87-11eb-8499-8bf1dae4a00a.png)
 
 I have attached a movies.txt file where the input is the movie "Star trek"
+
+![תמונה](https://user-images.githubusercontent.com/57719538/124833571-10c72e00-df87-11eb-8499-8bf1dae4a00a.png)
+
