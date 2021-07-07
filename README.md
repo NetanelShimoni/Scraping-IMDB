@@ -28,4 +28,6 @@ Code explanation:
 
 </br>
 example:
+![תמונה](https://user-images.githubusercontent.com/57719538/124833225-8aaae780-df86-11eb-93e2-675eabf87cd1.png)
+
 I have attached a movies.txt file where the input is the movie "Star trek"
