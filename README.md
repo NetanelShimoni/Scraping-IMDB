@@ -29,6 +29,6 @@ Code explanation:
 </br>
 **example:** 
 </br>
-![](https://user-images.githubusercontent.com/57719538/124833225-8aaae780-df86-11eb-93e2-675eabf87cd1.png)
+![תמונה](https://user-images.githubusercontent.com/57719538/124265620-99386f80-db3e-11eb-8581-845048f876f9.png)
 
 I have attached a movies.txt file where the input is the movie "Star trek"
