@@ -27,7 +27,8 @@ Code explanation:
 * The results can be seen in the movies.txt file
 
 </br>
-example:
+**example:** 
+</br>
 ![](https://user-images.githubusercontent.com/57719538/124833225-8aaae780-df86-11eb-93e2-675eabf87cd1.png)
 
 I have attached a movies.txt file where the input is the movie "Star trek"
