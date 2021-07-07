@@ -29,4 +29,4 @@ Code explanation:
 
 </br>
 example:
-I have attached a movie.txt file where the input is the movie "Star trek"
+I have attached a movies.txt file where the input is the movie "Star trek"
