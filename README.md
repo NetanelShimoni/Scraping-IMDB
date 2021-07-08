@@ -36,3 +36,6 @@ I have attached a movies.txt file where the input is the movie "Star trek"
 
 ![תמונה](https://user-images.githubusercontent.com/57719538/124833571-10c72e00-df87-11eb-8499-8bf1dae4a00a.png)
 
+![תמונה](https://user-images.githubusercontent.com/57719538/124872991-94583d80-dfce-11eb-8746-4722e3e497f4.png)
+
+
