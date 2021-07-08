@@ -11,7 +11,7 @@ With the help of libraries such as:
 
 
 
-I was able to lack information from imdb.com.
+I was able to leak information from imdb.com.
 
 work process:
 * I browsed the html file of the given site.
