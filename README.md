@@ -3,11 +3,11 @@ The purpose of the code is to get the name of a movie and with the help of libra
 **Movie title | Genre | MPAA ration | Movie duration | Directors |Stars** </br>
 With the help of libraries such as:
 1) imdb (library installation: pip install imdbpy)
-2) requests
+2) requests (pip install requests)
 3) json
-4) beautifulSoup
+4) beautifulSoup (pip install beautifulsoup4)
 5) datetime
-6) tkinter
+6) tkinter (pip install tk)
 
 
 
