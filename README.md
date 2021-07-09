@@ -13,13 +13,14 @@ With the help of libraries such as:
 
 I was able to leak information from imdb.com.
 
-work process:
+**work process:**
 * I browsed the html file of the given site.
 * I divided by tags according to the data I had to provide in the task.
 * With the help of BeautifulSoup I was able to pump out the relevant information.
 * Represent the information into a file.
-_
-Code explanation:
+
+
+**Code explanation:**
 * Using "details" function that gets a name of a movie, I first checked if the input is a movie.
 * I filtered the movies by exact match so that it would not get names of unwanted movies (ELM).
 * If the movie appears, I selected the exact match (from the movies).
